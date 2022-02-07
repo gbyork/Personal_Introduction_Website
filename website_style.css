@@ -1,0 +1,42 @@
+*{
+
+    background-color: black;
+    font-style: oblique;
+}
+.main_heading{
+    padding-left: 25px;
+    color: gold;
+}
+.General{
+    margin: 30px 0;
+    padding-left: 50px;
+    background: gold;
+    color: black;
+}
+.info{
+    margin: 30px 0;
+    padding-left: 50px;
+    background: black;
+    color: gold;
+}
+
+
+ul {
+  background: gold;
+  color: black;
+  padding: 20px;
+}
+
+li{
+    background:black;
+    color: gold;
+    text-decoration: wavy;
+}
+
+
+a.link
+{
+   color: gold;
+   text-decoration-line: underline;
+  
+}
